@@ -1,13 +1,13 @@
 .course {
     height: 400px;
-    background-image: url("../assets/images/learning.png"),url("../assets/images/learning-bg-02.png");
+    background-image: url("../../assets/images/learning.png"),url("../../assets/images/learning-bg-02.png");
     background-repeat: no-repeat;
     background-position: center bottom,right bottom;
     margin-top: 78px;
     @include lg{
-    background-image: url("../assets/images/learning.png"),
-        url("../assets/images/learning-bg-01.png"),
-        url("../assets/images/learning-bg-02.png");
+    background-image: url("../../assets/images/learning.png"),
+        url("../../assets/images/learning-bg-01.png"),
+        url("../../assets/images/learning-bg-02.png");
     background-repeat: no-repeat;
     background-position: center bottom, left top, right bottom, left bottom;
     background-size: contain;
